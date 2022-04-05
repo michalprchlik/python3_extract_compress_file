@@ -1,0 +1,10 @@
+[FORMAT]
+indent-string=\t
+max-line-length=120
+
+[SIMILARITIES]
+min-similarity-lines=20
+good-names=do_GET, do_POST, do_DELETE, do_PUT, do_PATCH
+
+[MESSAGES CONTROL]
+disable=logging-fstring-interpolation
